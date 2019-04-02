@@ -1,3 +1,4 @@
 baseURL = "http://rtp-gophers.xyz/"
 languageCode = "en-us"
 title = "RTP Gophers Website"
+theme = "hello-friend-ng"
